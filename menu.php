@@ -23,6 +23,14 @@
                         <a style="font-size:17px;" class="nav-link text-white fw-bold"
                          href="create.php">Ajouter un Marché</a>
                     </li>
+                    <li class="nav-item">
+                        <a style="font-size:17px;" class="nav-link text-white fw-bold"
+                         href="ajout_ville.php">Ajouter Ville</a>
+                    </li>
+                    <li class="nav-item">
+                        <a style="font-size:17px;" class="nav-link text-white fw-bold"
+                         href="liste_ville.php">Liste des villes</a>
+                    </li>
                    
                 </ul>
             </div>

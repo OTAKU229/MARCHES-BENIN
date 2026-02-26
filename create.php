@@ -60,7 +60,7 @@
     <input type="file" class="form-control" name="image" required>
     </div>
     <button type="submit" class="btn btn-primary" name="submit">Enregister</button>
-     <button type="button" class="btn btn-secondary" onclick="window.location.href='create.php'">Annulé</button>
+    <button type="button" class="btn btn-secondary" onclick="window.location.href='create.php'">Annulé</button>
     </form>
     </div>
 </body>
